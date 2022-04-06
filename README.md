@@ -24,7 +24,7 @@ additionally, youll notice that the code provided runs only 1 stepper and 1 serv
 
 ## enclosure 
 The enclose we created was made out of thin cardboard that was painted with acrylic paint. We used cardboard to create legs for the base of our piece, so that we would have enough room to house the hardware below the base. Additionally, we used a styrofoam board so that our piece could be more easily moved around. The pinweels were made using oragami paper. Everything was secured with tape. 
-![cardboard enclosure]()
+![cardboard enclosure](enclosure3.jpeg)
 ## demo 
 
 https://youtu.be/x-ua8B4ETJI
